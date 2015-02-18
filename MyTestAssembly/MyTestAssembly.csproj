@@ -39,6 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyFolder\IMyTestInterfaceInMinorNamespace.cs" />
+    <Compile Include="IMyTestInterfaceInRootNamespace.cs" />
+    <Compile Include="MyPublicEnum.cs" />
+    <Compile Include="MyPublicStruct.cs" />
+    <Compile Include="MyFolder\MyTestPrivateClassInMinorNamespace.cs" />
+    <Compile Include="MyTestPrivateClassInRootNamespace.cs" />
+    <Compile Include="MyFolder\MyTestProtectedClassInMinorNamespace.cs" />
+    <Compile Include="MyTestProtectedClassInRootNamespace.cs" />
+    <Compile Include="MyFolder\MyTestPublicClassInMinorNamespace.cs" />
     <Compile Include="MyTestPublicClassInRootNamespace.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
