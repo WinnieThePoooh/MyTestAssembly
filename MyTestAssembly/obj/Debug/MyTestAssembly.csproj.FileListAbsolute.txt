@@ -1,0 +1,5 @@
+c:\users\anton.spilnyy\documents\visual studio 2013\Projects\MyTestAssembly\MyTestAssembly\bin\Debug\JetBrains.WinnieThePooh.MyTestAssembly.dll
+c:\users\anton.spilnyy\documents\visual studio 2013\Projects\MyTestAssembly\MyTestAssembly\bin\Debug\JetBrains.WinnieThePooh.MyTestAssembly.pdb
+c:\users\anton.spilnyy\documents\visual studio 2013\Projects\MyTestAssembly\MyTestAssembly\obj\Debug\MyTestAssembly.csprojResolveAssemblyReference.cache
+c:\users\anton.spilnyy\documents\visual studio 2013\Projects\MyTestAssembly\MyTestAssembly\obj\Debug\JetBrains.WinnieThePooh.MyTestAssembly.dll
+c:\users\anton.spilnyy\documents\visual studio 2013\Projects\MyTestAssembly\MyTestAssembly\obj\Debug\JetBrains.WinnieThePooh.MyTestAssembly.pdb
